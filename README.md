@@ -16,6 +16,8 @@
 
 <img width="184" alt="src9" src="https://github.com/eminegurra/lab2/assets/153447195/7afcb96b-7ea4-489f-9826-3be633bc89eb">
 
+![image](https://github.com/eminegurra/lab2/assets/153447195/2d432e0d-75da-4c20-a737-04b0490e6de5)
+
 
 
 
